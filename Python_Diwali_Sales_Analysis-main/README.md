@@ -1,4 +1,4 @@
-# Data Analysis for Hote data spreadsheet using Jupyter Notebook
+# Data Analysis for Hotel data spreadsheet using Jupyter Notebook
 Analyze sales data to improve customer experience and sales
 
 <h1>Adr Per Month</h1>
