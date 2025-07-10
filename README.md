@@ -59,5 +59,5 @@ The data was sourced from a publicly available hotel booking dataset containing 
 
 ## 📬 Contact
 
-For questions or feedback, reach out to me on [LinkedIn](https://www.linkedin.com/in/ravikalakoti/).
+For questions or feedback, reach out to me on [LinkedIn](https://www.linkedin.com/in/ravi-kalakoti/).
 
